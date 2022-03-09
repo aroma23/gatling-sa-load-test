@@ -1,0 +1,5 @@
+mvn clean gatling:test  -DmaxRespTime=24000
+mvn clean gatling:test  -DmaxRespTime=24000 -Dsimulation=RampUsersSimulation
+mvn clean gatling:test  -DmaxRespTime=24000 -Dsimulation=ConstantUsersPerSecSimulation
+mvn clean gatling:test  -DmaxRespTime=24000 -Dsimulation=ConstantUsersPerSecSimulation
+mvn clean gatling:test  -DmaxRespTime=24000 -Dsimulation=RampUsersSimulation

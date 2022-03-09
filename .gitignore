@@ -1,0 +1,5 @@
+.idea/
+target/
+#results/
+gatling-load-test.iml
+.DS_Store
