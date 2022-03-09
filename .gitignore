@@ -1,5 +1,5 @@
 .idea/
 target/
-#results/
+results/
 gatling-load-test.iml
 .DS_Store
